@@ -26,7 +26,7 @@ on:
       timezone:
         description: 'Original IANA timezone (e.g. Europe/Paris)'
         required: true
-        default: 'Europe/Paris'
+        default: 'Asia/Kolkata'
       duration:
         description: 'Duration in minutes'
         required: true
