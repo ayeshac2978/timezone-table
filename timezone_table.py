@@ -9,13 +9,10 @@ from zoneinfo import ZoneInfo, available_timezones
 
 # List of cities you want to show
 CITY_ZONES = [
-    ("San Diego", "America/Los_Angeles"),
-    ("Paris", "Europe/Paris"),
-    ("Berlin", "Europe/Berlin"),
-    ("New Delhi", "Asia/Kolkata"),
-    ("Beijing", "Asia/Singapore"),
-    ("Seoul", "Asia/Seoul"),
-    ("Sydney", "Australia/Sydney"),
+    ("USA", "America/Los_Angeles"),
+    ("Europe", "Europe/Paris"),
+    ("India", "Asia/Kolkata"),
+    ("China", "Asia/Singapore"),
 ]
 
 
